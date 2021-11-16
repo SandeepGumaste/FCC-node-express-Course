@@ -1,0 +1,14 @@
+{
+  "name": "fcc-node-express",
+  "version": "1.0.0",
+  "description": "first init",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "sandeep",
+  "license": "MIT",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
